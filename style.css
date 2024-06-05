@@ -1273,6 +1273,7 @@ noscript{
     align-items: center;
     justify-content: center;
     height: 100px;
+    text-align: center;
 }
 .two-words article{
     font-size: 3rem;
